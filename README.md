@@ -24,8 +24,6 @@ _Моя роль в команде разработки может варьир�
 
 - 🌱 **Опыт:** У меня более 3-x лет опыта в разработке веб-приложений и React приложений.<br>
 
-- 💰 **Подработка:** Выполняю заказы на Кворке по разработвке разных ботов🤖.<br>
-
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-itopweb11-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/itopweb11) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:itopweb11@gmail.com)
 
 ---
