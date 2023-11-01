@@ -1,7 +1,7 @@
 
 <h1>Привет</h1> 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Меня+зовут+Гаджи)<br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Меня+зовут+Гаджимурад)<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=И+я+Frontend+разрабочик💻)](https://git.io/typing-svg)
 
 ---
