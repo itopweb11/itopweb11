@@ -1,7 +1,7 @@
 
 <h1>Привет</h1> 
 
-<img src="https://top-fon.com/uploads/posts/2023-02/1675202035_top-fon-com-p-fon-dlya-prezentatsii-na-temu-programmirov-186.jpg" width="100%" height="300" alt="img"/>&nbsp
+<img src="https://top-fon.com/uploads/posts/2023-02/1675202035_top-fon-com-p-fon-dlya-prezentatsii-na-temu-programmirov-186.jpg" width="100%" height="200" alt="img"/>
 
 ---
 
