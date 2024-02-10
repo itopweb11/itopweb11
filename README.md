@@ -67,7 +67,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/512px-WebStorm_Icon.svg.png?20210315203338" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
  <img src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
- <img src="https://www.svgrepo.com/show/306590/postman.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+ <img src="https://www.svgviewer.dev/static-svgs/14366/postman-icon.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 </div>
 
 ---
