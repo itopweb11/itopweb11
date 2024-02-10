@@ -66,7 +66,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/512px-WebStorm_Icon.svg.png?20210315203338" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
- <img src="https://media.licdn.com/dms/image/D4E12AQFHqIqUAOC7Qw/article-cover_image-shrink_720_1280/0/1688044836270?e=2147483647&v=beta&t=JN0YJQFG0qWcIF3KGcwGQWZIaUCAFnYvRSv8wLLSt_k" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
+ <img src="https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="photoshop" alt="photoshop" width="40" height="40"/>&nbsp;
 </div>
 
