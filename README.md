@@ -1,6 +1,3 @@
-
-<h1>Привет</h1> 
-
 <img src="https://ivanmichelle.files.wordpress.com/2016/03/cropped-fondoprogramacion2.jpg" width="100%" height="200" alt="img"/>
 
 ---
