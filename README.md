@@ -54,7 +54,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
  <img src="https://www.svgrepo.com/show/374144/typescript.svg" title="TS" alt="TS" width="40" height="40"/>&nbsp;
- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1280px-Tailwind_CSS_Logo.svg.png" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
+ <img src="https://files.raycast.com/nwt9ncojkvwmjfkaada8upafvpnu" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
 </div>
 
