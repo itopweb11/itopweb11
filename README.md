@@ -89,7 +89,7 @@
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/badges/large)
+![codewars](https://www.codewars.com)
 
 ### ⚙️ GitHub статистика:
 
